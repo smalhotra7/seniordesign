@@ -5,3 +5,5 @@ Vikram Somu
 Daryl Halima
 Utkarsh Vaidya
 Oudy Yang
+
+Georgia Institute of Technology
