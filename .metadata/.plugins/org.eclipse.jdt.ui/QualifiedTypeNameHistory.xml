@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.widget.ExpandableListView"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="com.seniordesign.studentorgmanager.R.layout"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="com.seniordesign.studentorgmanager.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog.Builder"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>
